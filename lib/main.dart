@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
-import 'paper.dart';
+
+import 'paper2.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
-  runApp(Paper());
+  runApp(const Paper());
 }
